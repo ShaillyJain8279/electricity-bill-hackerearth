@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/electricity-bill-hackerearth/static/css/main.4dd7262c.css",
-    "main.js": "/electricity-bill-hackerearth/static/js/main.c79828d2.js",
+    "main.js": "/electricity-bill-hackerearth/static/js/main.e28b3c8c.js",
     "static/js/787.c4e7f8f9.chunk.js": "/electricity-bill-hackerearth/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/electricity-bill-hackerearth/index.html",
     "main.4dd7262c.css.map": "/electricity-bill-hackerearth/static/css/main.4dd7262c.css.map",
-    "main.c79828d2.js.map": "/electricity-bill-hackerearth/static/js/main.c79828d2.js.map",
+    "main.e28b3c8c.js.map": "/electricity-bill-hackerearth/static/js/main.e28b3c8c.js.map",
     "787.c4e7f8f9.chunk.js.map": "/electricity-bill-hackerearth/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dd7262c.css",
-    "static/js/main.c79828d2.js"
+    "static/js/main.e28b3c8c.js"
   ]
 }
