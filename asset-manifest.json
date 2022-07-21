@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShaillyJain8279/electricity-bill-hackerearth/static/css/main.4dd7262c.css",
+    "main.js": "/ShaillyJain8279/electricity-bill-hackerearth/static/js/main.be959f27.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/ShaillyJain8279/electricity-bill-hackerearth/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/ShaillyJain8279/electricity-bill-hackerearth/index.html",
+    "main.4dd7262c.css.map": "/ShaillyJain8279/electricity-bill-hackerearth/static/css/main.4dd7262c.css.map",
+    "main.be959f27.js.map": "/ShaillyJain8279/electricity-bill-hackerearth/static/js/main.be959f27.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/ShaillyJain8279/electricity-bill-hackerearth/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd7262c.css",
+    "static/js/main.be959f27.js"
+  ]
+}
